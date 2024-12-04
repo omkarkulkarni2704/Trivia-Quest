@@ -1,4 +1,4 @@
-# Quiz App
+# Trivia Quest
 
 https://omkarkulkarni2704.github.io/QuizApp/
 
