@@ -4,7 +4,7 @@
 
 The app will usually present a set of multiple choice questions or true/false questions to the user, along with a time limit to answer each question. After the user selects an answer, the app will immediately provide feedback on whether their response was correct or incorrect.
 
-
+    
 
 
 ![Screenshot (63)](https://github.com/omkarkulkarni2704/Quiz_App/assets/89896505/e16d17bb-12be-435d-8619-f094111852c9)
