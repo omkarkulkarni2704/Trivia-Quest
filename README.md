@@ -24,8 +24,7 @@ Trivia Quest is an engaging and interactive quiz application that allows users t
 * Retention of knowledge with answer suggestions and explanations.
 
 # Getting Started
-## Prerequisites
-* A web browser to run the application.
+* Prerequisites:- A web browser to run the application.
 
 
 # Installation
