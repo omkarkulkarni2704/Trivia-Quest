@@ -1,6 +1,6 @@
 # Trivia Quest
 
-[Live Demo](https://drive.google.com/file/d/1JxZlXU5IhLZ_p6IDLGmmdKRYc9puSnMO/view?usp=drive_link)   
+[Live Demo](https://drive.google.com/file/d/1JxZlXU5IhLZ_p6IDLGmmdKRYc9puSnMO/view?usp=drive_link)      
 
 Trivia Quest is an engaging and interactive quiz application that allows users to test their knowledge on a variety of topics. With instant feedback, answer suggestions, and a user-friendly interface, Trivia Quest provides an enjoyable experience for users of all ages.
 
