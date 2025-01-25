@@ -8,7 +8,7 @@ Trivia Quest is an engaging and interactive quiz application that allows users t
 
 * **Multiple Choice Questions:-** Trivia Quest offers a variety of multiple-choice questions to challenge your knowledge across different domains.
 
-* **Instant Score Feedback:-** Users receive real-time feedback on their scores, keeping them motivated and engaged throughout the quiz.
+* **Instant Score Feedback:-** Users receive real-time feedback on their scores, keeping them motivated and engaged throughout the quiz.    
 
 * **Answer Suggestions:-** After each question, the app provides suggestions or explanations for the correct answers to enhance learning and retention.
 
